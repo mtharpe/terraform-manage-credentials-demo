@@ -1,3 +1,5 @@
+[![Terraform Testing and Release](https://github.com/mtharpe/terraform-manage-credentials-demo/actions/workflows/terraform.yml/badge.svg)](https://github.com/mtharpe/terraform-manage-credentials-demo/actions/workflows/terraform.yml)
+
 ## Requirements
 
 | Name | Version |
