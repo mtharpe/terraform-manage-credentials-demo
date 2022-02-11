@@ -1,5 +1,9 @@
 [![Terraform Testing and Release](https://github.com/mtharpe/terraform-manage-credentials-demo/actions/workflows/terraform.yml/badge.svg)](https://github.com/mtharpe/terraform-manage-credentials-demo/actions/workflows/terraform.yml)
 
+# Description
+
+This repo is based on a blog post to show how you can manage credentials using Terraform Cloud. See: https://www.hashicorp.com/blog/managing-credentials-in-terraform-cloud-and-enterprise
+
 ## Requirements
 
 | Name | Version |
